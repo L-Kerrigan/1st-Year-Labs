@@ -1,0 +1,1 @@
+I used the MinGW compiler for Windows to test my implementation.
